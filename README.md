@@ -30,7 +30,7 @@ A simple and elegant React-based web application that allows users to shorten UR
 ---
 
 ##  Folder Structure
-
+```
 url-shortener-app/
 ├── public/
 │ └── index.html
@@ -45,11 +45,7 @@ url-shortener-app/
 │ ├── App.css
 │ └── index.js
 └── package.json
-
-yaml
-Copy code
-
----
+```
 
 ##  How to Run the App
 
