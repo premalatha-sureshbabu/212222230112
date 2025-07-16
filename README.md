@@ -48,9 +48,6 @@ url-shortener-app/
 ```
 
 ##  How to Run the App
-
-1. **Clone the repository**  
-
 ```
 cd url-shortener-app
 Install dependencies
